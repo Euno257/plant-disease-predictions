@@ -13,5 +13,5 @@ Built a Web-App which predicts the plant disease by analysing their leaf image.
 <p><code> $ source pla/bin/activate </code></p>
  
 ### Install dependencies
-- Install fastai using pip3
+ Install fastai using pip3
 <p><code> pip3 install fastai </code></p>
